@@ -23903,5 +23903,13 @@
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
         }
+                {
+        	"author": "QingLuanWithoutHeart",
+        	"title": "comfyui_file_manager",
+        	"description": "A ComfyUI custom node to move, copy, or delete files. Outputs status info.",
+        	"files": [
+        		"https://github.com/QingLuanWithoutHeart/comfyui_file_manager"
+        	],
+        }
     ]
 }
